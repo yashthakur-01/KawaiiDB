@@ -35,5 +35,5 @@ A responsive IMDb-inspired web application built with **React** and **Tailwind C
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/imdb-clone.git
+git clone https://github.com/yashthakur-01/imdb-clone.git
 cd imdb-clone
