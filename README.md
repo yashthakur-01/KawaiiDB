@@ -1,4 +1,4 @@
-# 🎬 IMDb Clone
+# 🎬 KawaiiDB
 
 A responsive IMDb-inspired web application built with **React** and **Tailwind CSS**, allowing users to browse movies, view details, and search for their favorite films.
 
@@ -24,7 +24,7 @@ A responsive IMDb-inspired web application built with **React** and **Tailwind C
 - Tailwind CSS (for styling and responsiveness)
 
 **API:**
-- [The Movie Database (TMDB) API](https://www.themoviedb.org/documentation/api) or any other movie API
+- [The Kitsu API](https://kitsu.docs.apiary.io/#introduction/) or any other movie API
 
 
 
@@ -35,5 +35,5 @@ A responsive IMDb-inspired web application built with **React** and **Tailwind C
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yashthakur-01/ymdb---react-practice.git
+git clone https://github.com/yashthakur-01/KawaiiDB.git
 cd imdb-clone
