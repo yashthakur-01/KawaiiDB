@@ -29,7 +29,7 @@ function Banner() {
           {slides.map((item, index) => (
             <div
               key={index}
-              className="relative flex items-end justify-start mx-auto  h-[70vh] lg:w-[70vw] bg-no-repeat"
+              className="relative flex items-end justify-start mx-auto  h-[70vh] lg:w-[90vw] bg-no-repeat"
             >
               <img
                 loading="lazy"

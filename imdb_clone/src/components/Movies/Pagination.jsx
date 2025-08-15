@@ -2,7 +2,7 @@ import React from "react";
 
 function Pagination({page,onclick}) {
   return (
-    <div className="text-center flex justify-center items-center bg-[rgb(0,0,0,0.2)] p-3 my-8 h-[50px] w-full">
+    <div className="text-center flex justify-center items-center bg-blue-200 p-3 my-8 h-[50px] w-full">
       <div onClick={onclick}  className="px-9 transform hover:scale-[130%]">
         <div id='back' className="fa-solid fa-arrow-left"></div>
       </div>
